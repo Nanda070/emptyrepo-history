@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "283f310181c25f3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "202207bcac6724da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a9d15a3820ff797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prep_Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prep_Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8cec0bba8cc2f8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aafe5f60fdd26b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3dada67dc1191a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2de6dce788770457",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "199f24716677d15b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0ce6d52e5fd9465",
+    "type": "split",
+    "children": [
+      {
+        "id": "932a723326aa21f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb1ef6ae612cf78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c336329f0a762dce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a3782609aab676ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "03bb6f9f1c58b9c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "51c42aedea8e9de5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0a9d15a3820ff797",
+  "lastOpenFiles": [
+    "1/jog/Exams válaszok.pdf",
+    "Prep_Plan.md",
+    "1/impprog/Tests/Calculator/3.png",
+    "1/impprog/Tests/Calculator/2.png",
+    "1/impprog/Tests/Calculator/1.png",
+    "Untitled.base",
+    "1/funprog/Assignments/TicTacToe/TicTacToe.pdf",
+    "1/funprog/Assignments/funprog_assignments.md",
+    "1/funprog/Assignments/MagicSquare/MagicSquare.pdf",
+    "1/funprog/Assignments/BitList/BitList.pdf",
+    "1/funprog/Exams/2021_12___/feladat.pdf",
+    "1/funprog/Practice/README.md",
+    "1/funprog/Lectures/README.md",
+    "1/funprog/Homework/HF01/hazi1.pdf",
+    "1/funprog/funprog.md",
+    "1/funprog/Minta röpZH kérdések_RU.md",
+    "1/szamrend/Assignments/README.md",
+    "1/impprog/Assignments/Feladat_RU.md",
+    "1/impprog/impprog.md",
+    "Main.md",
+    "1/matalap/jegyzet.pdf",
+    "1/szamrend/szamrend.md",
+    "3/progelm/Tests/progelm_tests.md",
+    "3/progelm/Practice/progelm_practice.md",
+    "3/dimod/Tests/dimod_tests.md",
+    "2/dimat1/Exams/dimat1_exams.md",
+    "2/anal1/Tests/anal1_tests.md",
+    "1/funprog/Exams/funprog_exams.md",
+    "README.md",
+    "2/prognyelvek/Practice/README.md",
+    "5/valstat/valstat.md",
+    "5/szamelm2/szamelm2.md",
+    "5/python/python.md",
+    "5/ml/ml.md",
+    "5/mi/mi.md",
+    "5/konkurens/konkurens.md",
+    "3/telekom/Tests/ZH_2022_10_28_Szalai_z.pdf",
+    "3/telekom/Tests",
+    "3/telekom/Practice/12. Mininet II/korábbi_feladat3.py",
+    "3/telekom/Practice/05. UDP socket/Python UDP.png",
+    "3/telekom/Practice/05. UDP socket/net.jpg",
+    "3/telekom/Practice/03. Socket programozás I/Python TCP.png",
+    "3/progtech/Assignments/03. Tron/project/src/main/resources/helmet.png",
+    "3/progtech/Assignments/03. Tron/project/src/main/resources/dead.png",
+    "3/progtech/Assignments/03. Tron/project/src/main/resources/controls2.png",
+    "3/progtech/Assignments/03. Tron/project/src/main/resources/controls1.png"
+  ]
+}
